@@ -46,7 +46,7 @@
 	<!-- Akhir Navbar -->
 
 	<!-- Awal Data -->
-    <div class="container text-white">
+    	<div class="container text-white">
 		<h1 class="text-center mb-3">Data Mahasiswa</h1>
 		<div class="row justify-content-center">
 			<div class="data text-center">
